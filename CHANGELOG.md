@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/eriicafes/gh-actions/compare/v1.2.0...v1.3.0) (2022-05-25)
+
+
+### Features
+
+* run release workflow on release commits only ([7079ac4](https://github.com/eriicafes/gh-actions/commit/7079ac401bc0d20b2fadb16f69c41cb880f6c3e3))
+
 ## [1.2.0](https://github.com/eriicafes/gh-actions/compare/v1.1.0...v1.2.0) (2022-05-25)
 
 
